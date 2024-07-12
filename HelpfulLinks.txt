@@ -1,0 +1,6 @@
+Install Visual Studio 2022:
+  https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022
+Install .NET Framework 4.8 Developer Pack:
+  https://dotnet.microsoft.com/en-us/download/visual-studio-sdks
+Install ArcGIS Pro SDK for .NET:
+  https://github.com/Esri/arcgis-pro-sdk/wiki/ProGuide-Installation-and-Upgrade
